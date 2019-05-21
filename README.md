@@ -4,37 +4,37 @@
 
 # QMUI_Android
 
-QMUI Android 的设计目的是用于辅助快速搭建一个具备基本设计还原效果的 Android 项目，同时利用自身提供的丰富控件及兼容处理，让开发者能专注于业务需求而无需耗费精力在基础代码的设计上。不管是新项目的创建，或是已有项目的维护，均可使开发效率和项目质量得到大幅度提升。
+QMUI Android is designed to help quickly build an Android project with basic design restoration, while leveraging its rich controls and compatible processing, allowing developers to focus on business needs without having to spend effort on the design of the underlying code. . Whether it is the creation of a new project or the maintenance of an existing project, the development efficiency and project quality can be greatly improved.
 
-官网：[http://qmuiteam.com/android](http://qmuiteam.com/android)
+Official website：[http://qmuiteam.com/android](http://qmuiteam.com/android)
 
-[加入我们（长期有效）](https://qmuiteam.com/join-us/)
+Join us (long-term effective)(https://qmuiteam.com/join-us/)
 
 [![QMUI Team Name](https://img.shields.io/badge/Team-QMUI-brightgreen.svg?style=flat)](https://github.com/QMUI "QMUI Team")
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT "Feel free to contribute.")
 
-## 功能特性
-### 全局 UI 配置
-只需要修改一份配置表就可以调整 App 的全局样式，包括组件颜色、导航栏、对话框、列表等。一处修改，全局生效。
+## Functional characteristics
+### Global UI configuration
+You can adjust the global style of the app, including component colors, navigation bars, dialog boxes, lists, etc., simply by modifying a configuration table. A modification that takes effect globally.
 
-### 丰富的 UI 控件
-提供丰富常用的 UI 控件，例如 BottomSheet、Tab、圆角 ImageView、下拉刷新等，使用方便灵活，并且支持自定义控件的样式。
+### Rich UI controls
+Provides a variety of commonly used UI controls, such as BottomSheet, Tab, rounded ImageView, drop-down refresh, etc., easy to use and flexible, and supports the style of custom controls.
 
-### 高效的工具方法
-提供高效的工具方法，包括设备信息、屏幕信息、键盘管理、状态栏管理等，可以解决各种常见场景并大幅度提升开发效率。
+### Efficient tool approach
+Provide efficient tool methods, including device information, screen information, keyboard management, status bar management, etc., to solve various common scenarios and greatly improve development efficiency.
 
-## 功能列表
-请查看官网的[功能列表](http://qmuiteam.com/android/page/document.html)
+## function list
+Please check the function list of the official website.(http://qmuiteam.com/android/page/document.html)
 
-## 支持 Android 版本
-QMUI Android 支持 API Level 14+。
+## Support for Android version
+QMUI Android supports API Level 14+.
 
-## 使用方法
-请查看官网的[开始使用](http://qmuiteam.com/android/page/start.html)。
+## Instructions
+Please check the official website for the beginning.(http://qmuiteam.com/android/page/start.html)。
 
-## QMUI Demo APP 安装包下载
-点击链接下载：[http://cdn.qmuiteam.com/download/android/latest](http://cdn.qmuiteam.com/download/android/latest)
+## QMUI Demo APP installation package download
+Click on the link to download：[http://cdn.qmuiteam.com/download/android/latest](http://cdn.qmuiteam.com/download/android/latest)
 
-或扫二维码至官网下载：
+Or scan the QR code to the official website to download：
 
 ![QMUI Website](http://qmuiteam.com/themes/qmui/public/style/images/independent/AndroidDownloadQRCode_2x.png)
